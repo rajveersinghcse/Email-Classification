@@ -1,5 +1,3 @@
-Sure, here's a sample README.md file for your GitHub project:
-
 ---
 
 # Email Classification for Abusive Content Detection
@@ -75,5 +73,3 @@ Contributions to this project are welcome. If you have any suggestions for impro
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to modify this template according to your project's specific details and requirements.
