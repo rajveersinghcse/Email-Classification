@@ -17,7 +17,7 @@ This project focuses on building a classification model to distinguish between a
 
 ## Introduction
 
-The aim of this project is to develop a machine learning model capable of accurately categorizing emails into abusive and non-abusive categories. This can be particularly useful for email providers, social media platforms, and other online communication platforms to filter out harmful content and ensure a safer environment for their users.
+This project aims to develop a machine-learning model capable of accurately categorizing emails into abusive and non-abusive categories. This can be particularly useful for email providers, social media platforms, and other online communication platforms to filter out harmful content and ensure a safer environment for their users.
 
 ## Dataset
 
@@ -40,20 +40,6 @@ The classification model is built using natural language processing (NLP) techni
 - NLTK
 - Pandas
 - NumPy
-
-## Usage
-
-To train the classification model:
-
-```
-python train_model.py
-```
-
-To classify new emails:
-
-```
-python classify_emails.py
-```
 
 ## Results
 
