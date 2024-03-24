@@ -10,7 +10,6 @@ This project focuses on building a classification model to distinguish between a
 - [Dataset](#dataset)
 - [Approach](#approach)
 - [Dependencies](#dependencies)
-- [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
 - [License](#license)
