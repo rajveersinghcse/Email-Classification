@@ -16,11 +16,11 @@ This project focuses on building a classification model to distinguish between a
 
 ## Introduction
 
-This project aims to develop a machine-learning model capable of accurately categorizing emails into abusive and non-abusive categories. This can be particularly useful for email providers, social media platforms, and other online communication platforms to filter out harmful content and ensure a safer environment for their users.
+This project aims to develop a machine-learning model that accurately categorizes emails into abusive and non-abusive categories. This can be particularly useful for email providers, social media platforms, and other online communication platforms to filter out harmful content and ensure a safer environment for their users.
 
 ## Dataset
 
-The dataset used for training and evaluation comprises a diverse collection of emails labeled as either abusive or non-abusive. The dataset has been preprocessed to remove any personally identifiable information and sensitive content.
+The dataset used for training and evaluation comprises a diverse collection of emails labeled as abusive or non-abusive. The dataset has been preprocessed to remove personally identifiable information and sensitive content.
 
 ## Approach
 
@@ -44,10 +44,11 @@ The classification model is built using natural language processing (NLP) techni
 
 The performance of the model on the test dataset is as follows:
 
-- Accuracy: 90%
-- Precision: 88%
-- Recall: 92%
-- F1-score: 90%
+- Passive Aggressive Classifier	      99.56%
+- Naive Bayes			                    97.10%
+- TFIDF 				                      99.61%
+- TFIDF: Bigrams			                99.71%
+- TFIDF: Trigrams		                  99.71%
 
 ## Contributing
 
