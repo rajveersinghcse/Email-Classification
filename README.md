@@ -44,11 +44,11 @@ The classification model is built using natural language processing (NLP) techni
 
 The performance of the model on the test dataset is as follows:
 
-- Passive Aggressive Classifier	      99.56%
-- Naive Bayes			                    97.10%
-- TFIDF 				                      99.61%
-- TFIDF: Bigrams			                99.71%
-- TFIDF: Trigrams		                  99.71%
+- Passive Aggressive Classifier--------->99.56%
+- Naive Bayes--------------------------->97.10%
+- TFIDF---------------------------------->99.61%
+- TFIDF: Bigrams------------------------>99.71%
+- TFIDF: Trigrams------------------------>99.71%
 
 ## Contributing
 
