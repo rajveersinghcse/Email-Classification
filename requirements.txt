@@ -1,0 +1,12 @@
+WordCloud
+Stopwords
+pandas
+numpy
+seaborn
+matplotlib
+nltk
+bs4
+re
+string
+itertools
+-e .
